@@ -25,15 +25,16 @@ This is my personal developer portfolio website built using **pure HTML, CSS, an
 ---
 
 ## 📁 Project Structure
-├──.vscode
-│ └──settings.json
-├── assets/ # Images and icons (e.g., profile picture)
-│ └── profile1.jpg
-├──Design
-│ └── style.css # All custom styling
-│ └── script.js # JavaScript logic for form and interactivity
-│ └──index.html # Main HTML page
-│ └── README.md # Project documentation (this file)
+├── .vscode/              # VS Code workspace settings
+│   └── settings.json     
+├── assets/               # Images and icons (e.g., profile picture)
+│   └── profile1.jpg
+├── Design/               # All frontend files
+│   ├── style.css         # Custom CSS styling
+│   ├── script.js         # JavaScript for contact form and interactivity
+│   ├── index.html        # Main HTML page
+│   └── README.md         # Project documentation (this file)
+
 
 🌐 Live Website
 🔗
